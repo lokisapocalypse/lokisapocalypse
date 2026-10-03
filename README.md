@@ -11,7 +11,7 @@ them once they're live.
 - **Web applications:** PHP and Laravel back ends, React front ends, APIs and third-party integrations
 - **Websites for small businesses:** built, hosted and maintained in one place, with updates, backups and monitoring
 - **Help for agencies:** white-label development and hosting for design and marketing agencies
-- **Joining a team:** part-time contract work on an existing Laravel or React codebase
+- **Joining a team:** contract work on an existing Laravel or React codebase
 
 #### How I work
 
