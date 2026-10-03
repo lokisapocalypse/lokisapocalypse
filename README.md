@@ -4,7 +4,7 @@ I'm a PHP/Laravel and React developer in Durham, NC. I run [Fusani Applications]
 where I build websites and web applications for small businesses, practices and nonprofits, and host and look after
 them once they're live.
 
-**I'm taking on new part-time and contract work, about 20 hours a week.** Remote is fine.
+**Available for contract work,** remote or in the Triangle.
 
 #### What I do
 
